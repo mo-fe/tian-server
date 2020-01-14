@@ -6,11 +6,11 @@
 $ npm install
 ```
 
-## database
+## 账号相关配置信息,统一写在.env配置文件里面
 
 ```
-$ cp ormconfig.example.json ormconfig.json
-$ vi ormconfig.json
+$ cp env.example .env
+$ vi .env
 ```
 
 
